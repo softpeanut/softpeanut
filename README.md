@@ -27,3 +27,11 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=softpeanut&theme=discord_old_blurple&show_icons=true"/>
+  </a>
+  <br>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjawls"/>
+</p>
