@@ -32,9 +32,7 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
 <p align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=softpeanut&theme=discord_old_blurple&show_icons=true"/>
-  </a>
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=softpeanut&theme=discord_old_blurple&show_icons=true"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjawls"/>
 </p>
+
