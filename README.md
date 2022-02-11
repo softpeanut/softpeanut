@@ -36,6 +36,5 @@
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=softpeanut&theme=discord_old_blurple&show_icons=true"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaqjawls"/>
 </p>
 
