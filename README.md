@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
 </p>
 
-<h2>🎨 Stats</h2>
+<h2>🫧 Github Stats</h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=softpeanut&theme=discord_old_blurple&show_icons=true"/>
 </p>
