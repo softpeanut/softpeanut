@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=Beomjin&fontSize=90&animation=twinkling" />
 
-💬 Abount Me</h2>
+<h2>💬 Abount Me</h2>
 
 - I'm a student of Daedeok Software Meister High School.
 - I want to be a Backend Developer.
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=softpeanut&slug=나는-어디-여긴-누구)](https://velog.io/@softpeanut)
 
 <p>
     <a href="mailto:sdpthf@gmail.com" target="_blank">
@@ -28,14 +30,14 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
     <br/>
+    <img src="https://img.shields.io/badge/Codecov-F01F7A?style=flat-square&logo=Codecov&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
+    <br/>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
-    <br/>
-    <img src="https://img.shields.io/badge/Codecov-F01F7A?style=flat-square&logo=Codecov&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
 </p>
 
 <h2>🎨 Stats</h2>
