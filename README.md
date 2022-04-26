@@ -6,7 +6,7 @@
 - I want to be a Backend Developer.
 <br/>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=softpeanut&slug=나는-어디-여긴-누구)](https://velog.io/@softpeanut)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=softpeanut&slug=흔한-고2의-2022년-1분기-회고)](https://velog.io/@softpeanut)
 
 <p>
     <a href="mailto:sdpthf@gmail.com" target="_blank">
