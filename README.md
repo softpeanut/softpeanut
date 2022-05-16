@@ -3,7 +3,7 @@
 <h1>💬 Abount Me</h1>
 
 - I'm a student of Daedeok Software Meister High School.
-- I want to be a Backend Developer.
+- I'm interested in Backend Developers.
 <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=softpeanut&slug=흔한-고2의-2022년-1분기-회고)](https://velog.io/@softpeanut)
