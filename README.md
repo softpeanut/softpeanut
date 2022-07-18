@@ -10,6 +10,8 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=softpeanut&slug=흔한-고2의-2022년-1분기-회고)](https://velog.io/@softpeanut)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=entry_dsm&slug=로그인-난-부럽지가-않어)](https://velog.io/@entry_dsm)
+
 <p>
     <a href="mailto:sdpthf@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
