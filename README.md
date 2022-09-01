@@ -2,7 +2,7 @@
 
 <h1>💬 Abount Me</h1>
 
-- I'm a student of Daedeok Software Meister High School.
+- I'm a **School Vice President** of Daedeok Software Meister High School.
 - I'm interested in **Back-end Development** and **Domain Driven Design**.
 - I belong to <a href="https://github.com/DSM-DMS" target="_blank">DMS</a> as a leader and backend developer.
 
