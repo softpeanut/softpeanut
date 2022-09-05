@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=Beomjin&fontSize=90&animation=twinkling" />
-
 <h1>💬 Abount Me</h1>
 
 - I'm a **School Vice President** of Daedeok Software Meister High School.
