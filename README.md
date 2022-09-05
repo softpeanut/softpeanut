@@ -21,7 +21,7 @@
     </a>
 </p>
 
-<h1>🫧 Github Stats</h1>
+<h1>🌱 Github Stats</h1>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=softpeanut&theme=discord_old_blurple&show_icons=true"/>
 </p>
