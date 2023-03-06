@@ -2,7 +2,7 @@
 
 - I'm a **School Vice President** of Daedeok Software Meister High School.
 - I'm interested in **Back-end Development** and **Domain Driven Design**.
-- I belong to <a href="https://github.com/DSM-DMS" target="_blank">DMS</a> as a leader and backend developer.
+- I belong to <a href="https://github.com/team-aliens" target="_blank">DMS</a> as a leader and backend developer.
 
 <br/>
 
