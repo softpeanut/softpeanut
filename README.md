@@ -1,8 +1,8 @@
-<h1>💬 Abount Me</h1>
+<h1>I AM ..</h1>
 
-- I'm a **School Vice President** of Daedeok Software Meister High School.
-- I'm interested in **Back-end Development** and **Domain Driven Design**.
-- I belong to <a href="https://github.com/team-aliens" target="_blank">DMS</a> as a leader and backend developer.
+> 1. **School Vice President** of Daedeok Software Meister High School 🏫
+> 
+> 2. interested in **Back-end Development** and **Domain Driven Design**
 
 <br/>
 
@@ -24,3 +24,5 @@
 <h1>🌱 Github Stats</h1>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=softpeanut&theme=chalk&row=1&column=7&margin-w=5)
+
+<p><a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoftpeanut&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>&nbsp</p>
