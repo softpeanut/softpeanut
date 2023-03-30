@@ -22,8 +22,5 @@
 </p>
 
 <h1>🌱 Github Stats</h1>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=softpeanut&theme=discord_old_blurple&show_icons=true"/>
-</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=softpeanut&theme=chalk&row=1&column=7&margin-w=5)
